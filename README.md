@@ -37,7 +37,7 @@ Hello and welcome! I'm a dedicated software developer passionate about building 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Skills</b>
 
-### ✨ Technologies I Work With:
+### 💡 Technologies I Work With:
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -121,11 +121,15 @@ Hello and welcome! I'm a dedicated software developer passionate about building 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)&nbsp;
+### ✨ Media & Editor :
+
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)&nbsp;
+![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)&nbsp;
 ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-00962B?style=flat&logo=coreldraw&logoColor=white)&nbsp;
 ![OBS Studio](https://img.shields.io/badge/-OBS_Studio-302E31?style=flat&logo=obsstudio&logoColor=white)&nbsp;
 ![FL Studio](https://img.shields.io/badge/-FL_Studio-E4405F?style=flat&logo=flstudio&logoColor=white)&nbsp;
+
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
