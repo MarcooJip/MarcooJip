@@ -12,6 +12,26 @@
 
 Hello and welcome! I'm a dedicated software developer passionate about building innovative and functional personal projects. Always exploring new tech and pushing boundaries.
 
+## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+- 🔭 I’m currently working on `confidential` Development.
+- 🌱 I’m currently learning `hacking` and `coding`
+- 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
+- 💪 I am ready to help with software and hardware problems
+- ⚙️ I use daily: `.js`, `.Py`, `.html`, `.css`
+- 💬 Ping me about **fullstack**, **hacking**, **design**
+
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</td>
+</tr>
+</table>
+
 
 ---
 
