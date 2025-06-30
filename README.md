@@ -121,7 +121,7 @@ Hello and welcome! I'm a dedicated software developer passionate about building 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 
-### ✨ Media & Editor :
+### 🎥 Media & Editor :
 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)&nbsp;
 ![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)&nbsp;
