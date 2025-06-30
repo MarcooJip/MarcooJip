@@ -105,7 +105,7 @@ Hello and welcome! I'm a dedicated software developer passionate about building 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
- <!--- stats (start) -->
+<!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -121,7 +121,6 @@ Hello and welcome! I'm a dedicated software developer passionate about building 
 </table>
 <!--- stats (end) -->
 </p>        
-
 
 ---
 
